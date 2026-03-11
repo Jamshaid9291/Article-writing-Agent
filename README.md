@@ -9,7 +9,7 @@ An AI-powered blog writing agent that leverages LangGraph for workflow orchestra
 
 ## Application Interface
 
-![Blog Writer UI](https://github.com/Jamshaid9291/Article-writing-Agent/blob/7da87339ccbb3bfd5ded1840fb6340ede62cef9b/01_deepdraft.png)
+![Blog Writer UI](https://github.com/Jamshaid9291/Article-writing-Agent/blob/74be8fb60fb9c5b540da4bab4f6b207b9f6e8c6b/01_deepdraft.png)
 
 
 ## 🚀 Features
@@ -25,7 +25,7 @@ An AI-powered blog writing agent that leverages LangGraph for workflow orchestra
 
 ## Planning Interface
 
-![Planning interface ](https://github.com/Jamshaid9291/Article-writing-Agent/blob/7da87339ccbb3bfd5ded1840fb6340ede62cef9b/02_deepdraft.png)
+![Planning interface ](https://github.com/Jamshaid9291/Article-writing-Agent/blob/74be8fb60fb9c5b540da4bab4f6b207b9f6e8c6b/02_deepdraft.png)
 
 
 ## 📋 Table of Contents
@@ -159,3 +159,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 **Built with ❤️ using cutting-edge AI technologies**
+
