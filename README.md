@@ -7,6 +7,11 @@
 
 An AI-powered blog writing agent that leverages LangGraph for workflow orchestration and LangChain for seamless integration with multiple large language models (LLMs). This project automates the entire blog creation process, from planning and research to content generation and image placement.
 
+## Application Interface
+
+![Blog Writer UI](https://github.com/Jamshaid9291/Article-writing-Agent/blob/7da87339ccbb3bfd5ded1840fb6340ede62cef9b/01_deepdraft.png)
+
+
 ## 🚀 Features
 
 - **Multi-LLM Support**: Integrates with Groq, OpenAI GPT, and Google Gemini for flexible AI model selection
@@ -16,6 +21,12 @@ An AI-powered blog writing agent that leverages LangGraph for workflow orchestra
 - **Modular Architecture**: Built with LangGraph for scalable, stateful workflows
 - **Progressive Examples**: Jupyter notebooks demonstrating incremental improvements from basic to advanced implementations
 - **Pydantic Schemas**: Strongly typed data models for reliability and maintainability
+
+
+## Planning Interface
+
+![Planning interface ](https://github.com/Jamshaid9291/Article-writing-Agent/blob/7da87339ccbb3bfd5ded1840fb6340ede62cef9b/02_deepdraft.png)
+
 
 ## 📋 Table of Contents
 
@@ -145,5 +156,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Google Gemini](https://ai.google.dev/) for multimodal AI
 
 ---
+
 
 **Built with ❤️ using cutting-edge AI technologies**
