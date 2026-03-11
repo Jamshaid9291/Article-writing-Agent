@@ -1,0 +1,13 @@
+pydantic==2.12.5
+langgraph==1.0.8
+langchain-groq==1.1.2
+langchain-core==1.2.13
+python-dotenv==1.2.1
+streamlit==1.54.0
+pandas==2.3.3
+langchain-openai==1.1.10
+langchain-community==1.2.10
+langchain-tavily
+google-genai==1.66.0
+groq==0.37.1
+openai==2.21.0
